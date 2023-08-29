@@ -1,0 +1,6 @@
+{{#user}}
+Name: Aryan Kesarwani
+Skills: Python, Machine Learning, Deep Learning, Matplotlib, Django, Pandas, Numpy, Tensorflow, Scikit Learn, C++, C
+Email: aryan.kesarwani.07@icloud.com
+{{/user}}
+
